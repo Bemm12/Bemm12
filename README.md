@@ -35,6 +35,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectarme con diferentes personas</b> así que si quieres decir <b>hola, estaré feliz de conocerte más!</b> 😀</em>
  <br>📩 beatrizmaldonadotech@gmail.com
+ <br> 👩‍💻 https://www.linkedin.com/in/beatriz-maldonado-/
 
 #### Trofeo obtenidos en mi perfil de GitHub
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bemm12)](https://github.com/ryo-ma/github-profile-trophy)
