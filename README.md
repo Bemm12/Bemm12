@@ -5,7 +5,7 @@
 -->
 <h2  align="center">Hola, soy Beatriz. <br> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> ¡Bienvenid@ a mi perfil! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://static.vecteezy.com/system/resources/thumbnails/005/211/079/small_2x/woman-working-on-laptop-illustration-work-from-home-cartoon-character-free-vector.jpg" width="230">
- <em> <b>Soy  Desarrolladora Web Front-End 🖥️ </b></em>
+ <em> <b>Soy  Desarrollador Web Front-End 🖥️ </b></em>
  <br>Me considero una persona enérgica, entusiasta y apasionada de los temas tecnológicos, convencida de que puedo aportar mi experiencia, habilidades y conocimientos en la implementación de soluciones para el desarrollo de sistemas adecuados a los requerimientos de los usuarios.
  
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mi...
