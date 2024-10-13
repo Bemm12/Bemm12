@@ -9,8 +9,9 @@
  <br>Me considero una persona enérgica, entusiasta y apasionada de los temas tecnológicos, convencida de que puedo aportar mi experiencia, habilidades y conocimientos en la implementación de soluciones para el desarrollo de sistemas adecuados a los requerimientos de los usuarios.
  
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mi...
- 
-- 📚 Estudio en Laboratoria.
+
+- 📚 Estudio en Bootcamp Java de Talento Digital.
+- 📚 Egresada de Laboratoria.
 - 🎶🎵 Amo escuchar música.
 - 📚📑 Me encanta aprender cada día sobre las nuevas tendencias tecnólogicas y sobre todo poder poner en práctica lo aprendido. 
 - 🏞️ Me encanta viajar a conocer nuevos lugares
