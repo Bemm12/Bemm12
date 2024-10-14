@@ -42,5 +42,3 @@
  <br>📩 beatrizmaldonadotech@gmail.com
  <br> 👩‍💻 https://www.linkedin.com/in/beatriz-maldonado-/
 
-#### Trofeo obtenidos en mi perfil de GitHub
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bemm12)](https://github.com/ryo-ma/github-profile-trophy)
