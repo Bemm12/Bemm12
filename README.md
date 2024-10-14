@@ -10,7 +10,7 @@
  
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mi...
 
-- 📚 Estudio en Bootcamp Java de Talento Digital.
+- 📚 Estudio en el  Bootcamp Java de Talento Digital.
 - 📚 Egresada de Laboratoria.
 - 🎶🎵 Amo escuchar música.
 - 📚📑 Me encanta aprender cada día sobre las nuevas tendencias tecnólogicas y sobre todo poder poner en práctica lo aprendido. 
